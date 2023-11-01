@@ -90,6 +90,9 @@
         "id": "redhat.vscode-xml"
     },
     {
+        "id": "ms-dotnettools.vscode-dotnet-runtime"
+    },
+    {
         "id": "muhammad-sammy.csharp"
     },
     {
